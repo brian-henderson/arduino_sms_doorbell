@@ -7,7 +7,7 @@ ser = serial.Serial('/dev/cu.usbmodem1421', 9600)
 account_sid = "AC2c499a37e76bd87fb370afc8d6e57be7"
 
 # Your Auth Token from twilio.com/console
-auth_token  = ####################################
+auth_token  = "c88ab2d9be99aa0a631f12d7c768fba6"
 
 client = Client(account_sid, auth_token)
 
