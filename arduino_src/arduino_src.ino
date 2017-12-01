@@ -6,7 +6,7 @@ LiquidCrystal lcd(12, 11, 5, 4, 3, 2);
 int toggleBtnPin = 9;
 int confirmBtnPin = 10;
 char* contactNames [] = {"Brian Henderson","Zach Toner","Drew Burns","Tanner Senius","Jon Coogan"};
-char* contactNumbers[] = {"+17323433511", "+15165927041", "+15185066268", "+18452690469", "+15187286461"};
+char* contactNumbers[] = {############, ############, ############, ############, ############};
 int currIndex = 0;
 int arrSize = sizeof(contactNames)/sizeof(contactNames[0]);
 
