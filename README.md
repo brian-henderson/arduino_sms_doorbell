@@ -9,7 +9,7 @@ The Arduino UNO SMS Door Bell uses an Arduino UNO, and a connection to computer 
 
 Marist College 
 CMPT 433 - Fall 2017
-Pr. Tianchi Zhang
+Dr. Pablo Rivas
 
 
 
